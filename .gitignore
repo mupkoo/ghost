@@ -1,0 +1,5 @@
+content/data/*
+content/images/*
+node_modules/*
+config.js
+npm-debug.log
